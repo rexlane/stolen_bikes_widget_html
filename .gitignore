@@ -1,0 +1,16 @@
+# Ignore all logfiles and tempfiles.
+/log/*.log
+/tmp
+.DS_Store
+.sass-cache
+
+# Ignore bundler config
+/.bundle
+
+# Ignore rvm stuff
+.rvmrc
+.ruby-gemset
+.ruby-version
+.powenv
+
+.divshot-cache
